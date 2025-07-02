@@ -74,9 +74,6 @@ Hassan's portfolio/
 ## Contact Information
 
 - **Email**: <hassanabduljabbar7@gmail.com>
-- **WhatsApp**: +92 309-6373-918
-- **LinkedIn**: [Hassan Abdul Jabbar](https://www.linkedin.com/in/hassan-abdul-jabbar-64803b230/)
-- **GitHub**: [HassanAbdulJabbar](https://github.com/HassanAbdulJabbar)
 
 ## Browser Support
 
